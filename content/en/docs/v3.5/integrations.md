@@ -18,6 +18,8 @@ Note that third-party libraries and tools (not hosted on [etcd-io main repositor
 - [etcd-viewer](https://github.com/nikfoundas/etcd-viewer) - An etcd key-value store editor/viewer written in Java
 - [etcdtool](https://github.com/mickep76/etcdtool) - Export/Import/Edit etcd directory as JSON/YAML/TOML and Validate directory using JSON schema
 - [etcdloadtest](https://github.com/sinsharat/etcdloadtest) - A command line load test client for etcd version 3.0 and above.
+- [etcd-tui](https://github.com/olamilekan000/etcd-tui) - A modern terminal user interface (TUI) for interacting with your etcd database. Navigate keys, view values, filter data, and manage your etcd cluster directly from your terminal.
+- [etcdfinder](https://etcdfinder.github.io) - A lightning-fast, modern web UI for etcd with instant search. Supports both etcd v2 and v3.
 - [lucas](https://github.com/ringtail/lucas) - A web-based key-value viewer for kubernetes etcd3.0+ cluster.
 - [etcd-manager](https://etcdmanager.io) - A modern, efficient, multi-platform and free etcd 3.x GUI & client tool. Available for Windows, Linux and Mac.
 - [etcd-backup-restore](https://github.com/gardener/etcd-backup-restore) - Utility to periodically and incrementally backup and restore the etcd.
@@ -45,7 +47,7 @@ The sections below list etcd client libraries by language.
 - [justinsb/jetcd](https://github.com/justinsb/jetcd)
 - [diwakergupta/jetcd](https://github.com/diwakergupta/jetcd) - Supports v2
 - [jurmous/etcd4j](https://github.com/jurmous/etcd4j) - Supports v2, Async/Sync, waits and SSL
-- [AdoHe/etcd4j](http://github.com/AdoHe/etcd4j) - Supports v2 (enhance for real production cluster)
+- [AdoHe/etcd4j](https://github.com/AdoHe/etcd4j) - Supports v2 (enhance for real production cluster)
 - [cdancy/etcd-rest](https://github.com/cdancy/etcd-rest) - Uses jclouds to provide a complete implementation of v2 API.
 - [IBM/etcd-java](https://github.com/IBM/etcd-java)
 
